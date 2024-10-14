@@ -9,3 +9,17 @@ Es como trazar una línea de mejor ajuste entre dos cosas para ver cómo una inf
 
 
 Imagen de : https://www.agro.uba.ar/users/batista/EG/tpreg12.htm
+
+
+# Casos que cubre bien la regresión lineal:
+
+Relación lineal entre las variables (cuando una variable depende de forma constante de otra).
+Datos continuos, como números o cantidades.
+Errores aleatorios y distribuidos normalmente .
+
+# Casos que no cubre bien la regresión lineal:
+
+Relaciones no lineales (cuando las variables no siguen una tendencia recta).
+Multicolinealidad (cuando las variables independientes están muy correlacionadas).
+Datos categóricos (como variables de sí/no.
+Outliers (valores atípicos que afectan el modelo).
